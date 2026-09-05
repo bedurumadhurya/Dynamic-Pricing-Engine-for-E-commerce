@@ -1,0 +1,4 @@
+timestamp,product_id,demand,inventory,season,optimal_price
+2026-09-01 10:00:00,101,20,100,festive,499
+2026-09-01 11:00:00,102,35,50,regular,799
+2026-09-01 12:00:00,103,15,200,regular,299

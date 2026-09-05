@@ -1,0 +1,19 @@
+# Core data handling
+pandas==2.3.3
+numpy==2.5.2
+
+# Machine Learning
+scikit-learn==1.9.0
+xgboost==3.4.1
+
+# Web frameworks
+fastapi==0.141.1
+uvicorn==0.52.4
+streamlit==1.63.0
+requests==2.34.2
+
+# Serialization
+pickle-mixin==1.0.2
+
+# Optional monitoring/logging
+redis==8.1.0
